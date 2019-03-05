@@ -23,7 +23,7 @@ Rechteverwalten
     4. Erstellen Sie als [root] eine neue Datei
     /home/max/privat/schule/liste
     -----------------------------------------------------------------------------
-    touch /home/max/privat/schule/liste -p
+    touch /home/max/privat/schule/liste
     -----------------------------------------------------------------------------
 
 
